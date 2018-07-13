@@ -1,5 +1,7 @@
 package com.akeel.sample;
 
+import static org.junit.Assert.assertTrue;
+
 import org.junit.Before;
 import org.junit.Test;
 
@@ -13,6 +15,7 @@ public class ApacheHttpClientClassTest {
 	
 	@Test
 	public void testHttpMetthod() {
+		assertTrue(true);
 		
 	}
 
