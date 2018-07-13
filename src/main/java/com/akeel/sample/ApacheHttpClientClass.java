@@ -1,4 +1,4 @@
-package com.aaalife.sample;
+package com.akeel.sample;
 
 import java.io.IOException;
 import java.security.cert.Certificate;
